@@ -236,6 +236,7 @@ func onMachine(home, cfg string) []*Agent {
 		cindy(),
 		aionui(),
 		lody(home),
+		cteno(home),
 	}, ompProfiles(home)...)
 }
 

@@ -98,6 +98,8 @@ var Vars = []string{
 	"T3CODE_HOME",
 	// AtomCode's config folder
 	"ATOMCODE_HOME",
+	// Cteno's app-data folder, where its profiles.json is
+	"CTENO_APP_DATA_DIR",
 	// Snow CLI's config folder, ~/.snow without it
 	"SNOW_CONFIG_DIR",
 	// Cursor's CLI: its config folder (its chats) and its data folder
